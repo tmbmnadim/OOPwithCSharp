@@ -2,7 +2,7 @@ using System;
 
 namespace Class_Work{
     class triangleArea{
-        static int triangle(){
+        static int Main_func(){
             float a=8;
             float b=5;
             float c=12;

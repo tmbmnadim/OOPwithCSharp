@@ -2,7 +2,7 @@
 
 namespace Class_Work{
     class bigestOfThemAll{
-        static int big(){
+        static int Main_func(){
             int a=8;
             int b=5;
             int c=4;

@@ -2,7 +2,7 @@ using System;
 
 namespace Class_Work{
     class quadraticEquation{
-        static int Roots(){
+        static int Main_func(){
             float a=2;
             float b=3;
             float c=1;

@@ -19,7 +19,7 @@ namespace operatorOverload
             obj.salary = o.salary+ob.salary;
             return obj;
         }
-        static void Main(){
+        static void Main_func(){
             office a = new office(1200);
             office b = new office(7880);
             office accountant;

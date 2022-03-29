@@ -1,7 +1,7 @@
 using System;  
   public class FactorialExample  
    {  
-     public static void Main(string[] args)  
+     public static void Main_func(string[] args)  
       {  
        int fact = 1;
        int number = 9;

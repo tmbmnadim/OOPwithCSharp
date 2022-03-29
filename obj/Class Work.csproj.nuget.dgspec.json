@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Learning\\C#\\Class Work\\Class Work.csproj": {}
+    "E:\\Learning\\C#\\OOPwithCSharp\\Class Work.csproj": {}
   },
   "projects": {
-    "E:\\Learning\\C#\\Class Work\\Class Work.csproj": {
+    "E:\\Learning\\C#\\OOPwithCSharp\\Class Work.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Learning\\C#\\Class Work\\Class Work.csproj",
+        "projectUniqueName": "E:\\Learning\\C#\\OOPwithCSharp\\Class Work.csproj",
         "projectName": "Class Work",
-        "projectPath": "E:\\Learning\\C#\\Class Work\\Class Work.csproj",
+        "projectPath": "E:\\Learning\\C#\\OOPwithCSharp\\Class Work.csproj",
         "packagesPath": "C:\\Users\\Nadim\\.nuget\\packages\\",
-        "outputPath": "E:\\Learning\\C#\\Class Work\\obj\\",
+        "outputPath": "E:\\Learning\\C#\\OOPwithCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nadim\\AppData\\Roaming\\NuGet\\NuGet.Config"

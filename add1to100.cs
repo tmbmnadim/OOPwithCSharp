@@ -3,7 +3,7 @@ namespace one2hundread
 {
     class Adder
     {
-        static void Main(){
+        static void Main_func(){
             int sumis = 0;
             for(int i = 0; i<=100;i++)
             {
